@@ -15,7 +15,7 @@ Welcome to my GitHub profile.
 - Rapid learning & creative solutions
 
 ## 🛠️ Featured Project
-- **[Whiteout Survival Gears](https://github.com/Leo-ilys/Wos-Gears)**
+- **[Whiteout Survival Gears Simulator](https://github.com/Leo-ilys/Wos-Gears)**
 
 ## 🌐 Connect with Me
 - 🐦 [Twitter: @tbestcry](https://twitter.com/tbestcry)
