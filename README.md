@@ -1,10 +1,26 @@
-- 👋 Hi, I’m @Leo-ilys
-- 👀 I’m interested in API BOTS
-- 🌱 I’m currently learning PYTHON
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me FACEBOOK : H. ED. DRISSI
+# Hi, I'm Leo! 👋
 
-<!---
-Leo-ilys/Leo-ilys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile.
+
+## 🚀 About Me
+- 🎓 Studying **Electromechanical and System Automation**
+- 🧠 Fast learner & passionate problem solver
+- 🤖 Currently learning **Python** and love creating bots
+- 📚 "basato su una storia vera"
+
+## 🔧 Skills & Interests
+- System Automation
+- Electromechanics
+- Bot development
+- Rapid learning & creative solutions
+
+## 🛠️ Featured Project
+- **[whiteoutproject](https://github.com/Leo-ilys/whiteoutproject)** (archived for now)
+
+## 🌐 Connect with Me
+- 🐦 [Twitter: @tbestcry](https://twitter.com/tbestcry)
+- 📸 [Instagram: @ik_3](https://instagram.com/ik_3)
+
+---
+
+Thanks for stopping by! 🚦
