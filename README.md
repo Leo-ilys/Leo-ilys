@@ -15,7 +15,7 @@ Welcome to my GitHub profile.
 - Rapid learning & creative solutions
 
 ## 🛠️ Featured Project
-- **[whiteoutproject](https://github.com/Leo-ilys/whiteoutproject)** (archived for now)
+- **[Whiteout Survival Gears](https://github.com/Leo-ilys/Wos-Gears)**
 
 ## 🌐 Connect with Me
 - 🐦 [Twitter: @tbestcry](https://twitter.com/tbestcry)
