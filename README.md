@@ -1,4 +1,4 @@
-# Hi, I'm Leo! 👋
+# Hi, I'm Cry! 👋
 
 Welcome to my GitHub profile.
 
@@ -6,7 +6,6 @@ Welcome to my GitHub profile.
 - 🎓 Studying **Electromechanical and System Automation**
 - 🧠 Fast learner & passionate problem solver
 - 🤖 Currently learning **Python** and love creating bots
-- 📚 "basato su una storia vera"
 
 ## 🔧 Skills & Interests
 - System Automation
@@ -19,7 +18,6 @@ Welcome to my GitHub profile.
 
 ## 🌐 Connect with Me
 - 🐦 [Twitter: @tbestcry](https://twitter.com/tbestcry)
-- 📸 [Instagram: @ik_3](https://instagram.com/ik_3)
 
 ---
 
